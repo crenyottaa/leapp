@@ -1,6 +1,6 @@
 set :application, "leaapplication"
 set :repository,  "git@github.com:crenyottaa/leapp.git"
-set :deploy_to, "/mnt/leaapp"
+set :deploy_to, "/mnt/leapp"
 set :scm, :git
 # Or: `accurev`, `bzr`, `cvs`, `darcs`, `git`, `mercurial`, `perforce`, `subversion` or `none`
 
